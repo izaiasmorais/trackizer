@@ -1,4 +1,6 @@
-# 📲 Trackizer
+<h1 align='center'>
+   📲 Trackizer
+</h1>
 
 <div>
   <img src="https://i.imgur.com/pH7Bkll.png" />
